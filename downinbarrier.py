@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  1 17:49:51 2020
 
-@author: angus
-"""
 
 
 class DownInBarrier (object):
